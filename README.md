@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/itstiredmilk" target="blank"><img src="https://img.shields.io/twitter/follow/itstiredmilk?logo=twitter&style=for-the-badge" alt="itstiredmilk" /></a> </p>
 
-- 📝 I regularly write articles on [armanzahedi.com](armanzahedi.com)
+- 📝 I regularly write articles on [armanzahedi.com](https://armanzahedi.com)
 
 - 💬 Ask me about **C#, .NET**
 
 - 📫 How to reach me **armanzdii@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/armanzahedi](linkedin.com/armanzahedi)
+- 📄 Know about my experiences [linkedin.com/armanzahedi](https://linkedin.com/armanzahedi)
 
 - ⚡ Fun fact **C# is amazing now.**
 
