@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">I'm pretty good with C# and .NET, I know other things too.</h3>
+<h3 align="center">I mainly work with C# and .NET, I love to explore new tech.</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=armanzahedi&amp;theme=dark_dimmed&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me **armanzdii@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/armanzahedi](https://linkedin.com/armanzahedi)
-
-- ⚡ Fun fact **C# is amazing now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
