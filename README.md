@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=armanzahedi&amp;theme=dark_dimmed&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 
-<p align="left"> <a href="https://twitter.com/itstiredmilk" target="blank"><img src="https://img.shields.io/twitter/follow/itstiredmilk?logo=twitter&style=for-the-badge" alt="itstiredmilk" /></a> </p>
 
 - 📝 I regularly write articles on [armanzahedi.com](https://armanzahedi.com)
 
