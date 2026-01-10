@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/itrmnz" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="itrmnz"  /></a>
 <a href="https://linkedin.com/in/armanzahedi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="armanzahedi" /></a>
 </p>
 
