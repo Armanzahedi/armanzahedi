@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C#, .NET**
 
-- 📫 How to reach me **armanzdii@gmail.com**
+- 📫 How to reach me **contact@armanzahedi.com**
 
 - 📄 Know about my experiences [linkedin.com/armanzahedi](https://linkedin.com/armanzahedi)
 
