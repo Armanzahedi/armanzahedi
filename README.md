@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=armanzahedi&amp;theme=dark_dimmed&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 
 
-- 📝 I regularly write articles on [armanzahedi.com](https://armanzahedi.com)
+- 📝 I regularly write articles on [arman.space](https://arman.space)
 
 - 💬 Ask me about **C#, .NET**
 
